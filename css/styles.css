@@ -1,0 +1,57 @@
+﻿body {
+  margin-bottom: 80px;
+	overflow-y: scroll;
+}
+.jumbotron {
+	padding: 2rem;
+}
+#share-buttons {
+	margin-bottom: 2rem;
+}
+.adsbygoogle {
+    display: block;
+}
+#copyToClipboard {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+}
+#copyToClipboard img {
+  width: 100%; 
+  cursor: pointer;
+}
+
+fieldset.LCM {
+  border: solid thin black !important;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+fieldset.LCM legend {
+ width: auto;
+ padding: 0 10px;
+ border-left: solid thin black;
+ border-right: solid thin black;
+ font-size: 1.2rem;
+}
+fieldset.LCM div#LCMOutput {
+ font-family: monospace;
+ white-space: pre;
+}
+
+.list-group-item {
+  margin-bottom: 30px;
+  border: none;
+  padding: 0;
+}
+
+.input-group-append button {
+  font-weight: bold;
+  width: 80px;
+}
+
+div.clearfix {
+    margin-bottom: 20px;
+}
