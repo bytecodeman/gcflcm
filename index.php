@@ -135,7 +135,7 @@ endif;
                     <p>This system calculates the Greatest Common Factor (GCF) and Lowest Common Multiple (LCM) of multiple numbers.</p>
                     <p>Enter numbers in any order, in any combination, in a maximum of 5 text boxes.</p>
                     <p class="d-print-none"><a href="#" data-toggle="modal" data-target="#myModal">About <?php echo $title; ?></a></p>
-                    <p class="d-print-none"><a href="https://github.com/bytecodeman/gcflcm" rel="noopener noreferrer">Source Code</a></p>
+                    <p class="d-print-none"><a href="https://github.com/bytecodeman/gcflcm" target="_blank" rel="noopener noreferrer">Source Code</a></p>
                 </div>
                 <div class="col-lg-4 d-print-none">
                     <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9626577709396562" data-ad-slot="7064413444" data-ad-format="auto"></ins>
